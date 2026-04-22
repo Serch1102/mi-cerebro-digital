@@ -1,0 +1,104 @@
+{
+  "styles": {
+    "Conocimiento/02 - Blue Team": {
+      "backgroundColor": "#007aff",
+      "isBold": false,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "textColor": "#58a6ff",
+      "opacity": 1
+    },
+    "Conocimiento/Hacking": {
+      "backgroundColor": "#571414",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Conocimiento": {
+      "backgroundColor": "#4d79bb",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "applyToSubfolders": false,
+      "opacity": 0.9
+    },
+    "Conocimiento/01 - Blue Team": {
+      "backgroundColor": "#0d47a1",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "textColor": "#ffffff"
+    },
+    "Conocimiento/02 -Hacking": {
+      "backgroundColor": "#701a11",
+      "textColor": "#ffffff",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "isItalic": false
+    },
+    "Conocimiento/03 - OSINT": {
+      "backgroundColor": "#1f6b44",
+      "opacity": 0.8,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "applyToFiles": true
+    },
+    "Conocimiento/04 - Servicios": {
+      "backgroundColor": "#506608",
+      "opacity": 0.8,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff"
+    },
+    "/": {
+      "backgroundColor": "#ffffff",
+      "textColor": "#000000",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Conocimiento/00 - Índices": {
+      "backgroundColor": "#4d79bb",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "textColor": "#ffffff"
+    }
+  },
+  "presets": {
+    "BlueTeam": {
+      "backgroundColor": "#385794",
+      "isBold": false,
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "RedTeam": {
+      "backgroundColor": "#d93f3f",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "OSINT": {
+      "backgroundColor": "#1f6b44",
+      "opacity": 0.8,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "applyToFiles": true
+    },
+    "ServiciosFolder": {
+      "backgroundColor": "#506608",
+      "opacity": 0.8,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff"
+    }
+  },
+  "presetOrder": [
+    "BlueTeam",
+    "RedTeam",
+    "OSINT",
+    "ServiciosFolder"
+  ]
+}

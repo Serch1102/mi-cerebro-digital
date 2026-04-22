@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "8e82ba46a65914e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bded6fb9c71d42c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64c4d1a859c1b0fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conocimiento/02 -Hacking/Protocolos de red/SMB -p 445/SMB (Server Message Block).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SMB (Server Message Block)"
+            }
+          },
+          {
+            "id": "da57d295814f0f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reunion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "reunion"
+            }
+          },
+          {
+            "id": "256473471a076744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reunion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "reunion"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8c097bda6beabbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "77ce90a60453d084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fde46ef3db1a3927",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b2365c2250d2d2c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "18541a8f568ae7fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "1df4360cacdd9e01",
+    "type": "split",
+    "children": [
+      {
+        "id": "4373b73d18a70cdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9adcf4c5c122e890",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conocimiento/01 - Blue Team/01 - Fundamentos/Data Lake.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Data Lake"
+            }
+          },
+          {
+            "id": "64453eed643a8068",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conocimiento/01 - Blue Team/01 - Fundamentos/Data Lake.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Data Lake"
+            }
+          },
+          {
+            "id": "df625305755ebbbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1e6508cfb919e417",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conocimiento/01 - Blue Team/01 - Fundamentos/Data Lake.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Data Lake"
+            }
+          },
+          {
+            "id": "066f399fa67201af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "5b94103e877c0fc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Conocimiento/01 - Blue Team/01 - Fundamentos/Data Lake.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propiedades de los archivos para Data Lake"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "256473471a076744",
+  "lastOpenFiles": [
+    "psicologo.md",
+    "reunion.md",
+    "Conocimiento/02 -Hacking/Protocolos de red/SMB -p 445/SMB (Server Message Block).md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - CREM.md",
+    "Conocimiento/01 - Blue Team/01 - Fundamentos/Data Lake.md",
+    "Trend Vision One.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/00 - Trend Vision One.md",
+    "Conocimiento/01 - Blue Team/01 - Fundamentos/IOC vs IOA vs BIOC.md",
+    "Conocimiento/01 - Blue Team/01 - Fundamentos/TTPs.md",
+    "Conocimiento/01 - Blue Team/01 - Fundamentos/Correlación de eventos.md",
+    "Conocimiento/01 - Blue Team/01 - Fundamentos/MITRE ATT&CK.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/SIEM Integration - Trend Vision One.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - Companion.md",
+    "Trend Vision One - Cyber Risk Overview.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - Workbench.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - Detection Models.md",
+    "Detection Model Management.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/01 - MOC - Trend Vision One.md",
+    "Conocimiento/02 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/Trend Vision One.md",
+    "Conocimiento/02 - Blue Team/03 - Módulos y Funcionalidades/Workbench.md",
+    "Conocimiento/02 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/00 - MOC - Trend Vision One.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - Intelligence Reports.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/05 - Certificación/Trend Vision One SecOps Advanced - MOC.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/03 - Detección e Investigación/Threat Hunting.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/03 - Detección e Investigación/Triage.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/05 - Certificación",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/04 - Queries/XQL",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/04 - Queries/Otras",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/04 - Queries",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/03 - Detección e Investigación",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/01 - Fundamentos internos",
+    "Conocimiento/02 -Hacking/Hacking Genérico/Enumeración/Nmap/Nmap.md",
+    "Sin título.canvas",
+    "Conocimiento/02 - Blue Team/08 - Certificaciones/Trend Vision One SecOps Advanced",
+    "Conocimiento/01 - Blue Team/06 - Certificaciones/Palo Alto",
+    "Conocimiento/01 - Blue Team/06 - Certificaciones/Microsoft",
+    "Untitled.canvas",
+    "zzzimages/Nginx serverhosts.png",
+    "zzzimages/Estructura_nginx.png",
+    "zzzimages/nginx.png",
+    "zzzimages/Pasted image 20240218025926.png",
+    "zzzimages/Pasted image 20240218031042.png",
+    "zzzimages/Pasted image 20240218031120.png"
+  ]
+}

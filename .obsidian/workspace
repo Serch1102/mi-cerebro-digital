@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "042e38adccec1855",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb67e9b5d91b213b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conocimiento/conocimiento/Hacking/Hacking Generico/BurpSuite/Intruder en Burp Suite.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73d599cf32b6d944",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b7c3fdc513630a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dbacb511672c359",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d070d6f3c0e782c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wordpress",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e16f49f08542f7af",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c12c8934db1a314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fbf8742c3f69516",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conocimiento/conocimiento/Hacking/Hacking Generico/BurpSuite/Intruder en Burp Suite.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b55886343d3fdae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conocimiento/conocimiento/Hacking/Hacking Generico/BurpSuite/Intruder en Burp Suite.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e2fa3b134b20f05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09fe2a87ebaa628b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conocimiento/conocimiento/Hacking/Hacking Generico/BurpSuite/Intruder en Burp Suite.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fb67e9b5d91b213b",
+  "lastOpenFiles": [
+    "conocimiento/conocimiento/Hacking/Hacking Generico/BurpSuite/Intruder en Burp Suite.md",
+    "conocimiento/conocimiento/Hacking/Hacking Generico/BurpSuite/Fuzzing con BurpSuite.md",
+    "conocimiento/conocimiento/Hacking/Hacking Active Directory/EternalBlue.md",
+    "conocimiento/conocimiento/Hacking/Hacking Active Directory/ASREPRoasting.md",
+    "conocimiento/conocimiento/Hacking/Hacking Active Directory/2 - Ataque Samba Relay.md",
+    "conocimiento/conocimiento/Hacking/Hacking Active Directory/1 - Configurar Active Directory + Equipos clientes.md",
+    "conocimiento/conocimiento/Hacking/Hacking Active Directory/Enumeración en Windows/Enumeración de Usuarios Active Directory - Lookupsid.md",
+    "conocimiento/conocimiento/Hacking/Hacking Active Directory/Enumeración en Windows/Enumeración de Procesos y Servicios.md",
+    "conocimiento/conocimiento/Hacking/Hacking Active Directory/Enumeración en Windows/Enumeración de la red.md",
+    "conocimiento/conocimiento/Hacking/CTF/Vulnyx/MAQUINA WICCA.md"
+  ]
+}
