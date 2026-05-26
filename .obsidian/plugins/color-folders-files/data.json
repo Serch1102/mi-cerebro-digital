@@ -65,6 +65,20 @@
       "applyToSubfolders": true,
       "applyToFiles": true,
       "textColor": "#ffffff"
+    },
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One": {
+      "backgroundColor": "#000000",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "textColor": "#c20000"
+    },
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Cortex XSIAM": {
+      "backgroundColor": "#134023",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
     }
   },
   "presets": {
@@ -93,12 +107,28 @@
       "applyToSubfolders": true,
       "isBold": true,
       "textColor": "#ffffff"
+    },
+    "Blueteam2": {
+      "backgroundColor": "#0d47a1",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "textColor": "#ffffff"
+    },
+    "XSIAM": {
+      "backgroundColor": "#0d7339",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
     }
   },
   "presetOrder": [
     "BlueTeam",
     "RedTeam",
     "OSINT",
-    "ServiciosFolder"
+    "ServiciosFolder",
+    "Blueteam2",
+    "XSIAM"
   ]
 }

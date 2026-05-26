@@ -2,7 +2,6 @@
 Enumeración: 
 Transferencia de archivos:
 ---
-
 ## SMB (Server Message Block):
 
 **Descripción del Protocolo:**

@@ -13,44 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conocimiento/02 -Hacking/Protocolos de red/SMB -p 445/SMB (Server Message Block).md",
+                "file": "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Cortex XSIAM/Cortex XSIAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB (Server Message Block)"
+              "title": "Cortex XSIAM"
             }
           },
           {
-            "id": "da57d295814f0f2c",
+            "id": "91deaace39fcda4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reunion.md",
+                "file": "JPN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reunion"
+              "title": "JPN"
             }
           },
           {
-            "id": "256473471a076744",
+            "id": "f65d2d94c2275274",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reunion.md",
+                "file": "Conocimiento/zzzGlosario/Glosario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reunion"
+              "title": "Glosario"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 293.5
   },
   "right": {
     "id": "1df4360cacdd9e01",
@@ -205,14 +205,23 @@
               "icon": "lucide-info",
               "title": "Propiedades de los archivos para Data Lake"
             }
+          },
+          {
+            "id": "1c1fe1cd1b2582b3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,36 +231,41 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "256473471a076744",
+  "active": "91deaace39fcda4a",
   "lastOpenFiles": [
-    "psicologo.md",
-    "reunion.md",
+    "prueba/Pasted image 20260524134629.png",
+    "prueba/Pasted image 20260524134452.png",
+    "prueba/Pasted image 20260524134427.png",
+    "prueba",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Cortex XSIAM/Cortex XSIAM.md",
+    "JPN.md",
+    "Conocimiento/zzzGlosario/Glosario.md",
+    "Conocimiento/04 - Servicios/Web/Nginx/3.Instalando Wordpress en nginx.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - Companion.md",
+    "Conocimiento/04 - Servicios/Web/Nginx/2.VIRTUALHOSTS.md",
+    "Claude Ecthp.md",
     "Conocimiento/02 -Hacking/Protocolos de red/SMB -p 445/SMB (Server Message Block).md",
-    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - CREM.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/03 - Detección e Investigación/Triage.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/03 - Detección e Investigación/Threat Hunting.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Microsoft Sentinel/Microsoft Sentinel.md",
+    "Conocimiento/00 - Índices/MOC - Blue Team.md",
+    "Conocimiento/01 - Blue Team/01 - Fundamentos/Correlación de eventos.md",
     "Conocimiento/01 - Blue Team/01 - Fundamentos/Data Lake.md",
+    "Conocimiento/01 - Blue Team/04 - Runbooks y Playbooks/Runbook - Investigación de alerta.md",
+    "guia_soc_evolutio.md",
+    "Pivoting + symfonos Vita.md",
+    "corrosion.md",
+    "reunion.md",
+    "psicologo.md",
+    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - CREM.md",
     "Trend Vision One.md",
     "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/00 - Trend Vision One.md",
     "Conocimiento/01 - Blue Team/01 - Fundamentos/IOC vs IOA vs BIOC.md",
     "Conocimiento/01 - Blue Team/01 - Fundamentos/TTPs.md",
-    "Conocimiento/01 - Blue Team/01 - Fundamentos/Correlación de eventos.md",
-    "Conocimiento/01 - Blue Team/01 - Fundamentos/MITRE ATT&CK.md",
-    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/SIEM Integration - Trend Vision One.md",
-    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - Companion.md",
-    "Trend Vision One - Cyber Risk Overview.md",
-    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - Workbench.md",
-    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - Detection Models.md",
-    "Detection Model Management.md",
-    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/01 - MOC - Trend Vision One.md",
-    "Conocimiento/02 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/Trend Vision One.md",
-    "Conocimiento/02 - Blue Team/03 - Módulos y Funcionalidades/Workbench.md",
-    "Conocimiento/02 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/00 - MOC - Trend Vision One.md",
-    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades/Trend Vision One - Intelligence Reports.md",
-    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/05 - Certificación/Trend Vision One SecOps Advanced - MOC.md",
-    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/03 - Detección e Investigación/Threat Hunting.md",
-    "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/03 - Detección e Investigación/Triage.md",
     "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/05 - Certificación",
     "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/04 - Queries/XQL",
     "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/04 - Queries/Otras",
@@ -259,11 +273,9 @@
     "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/03 - Detección e Investigación",
     "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/02 - Módulos y Funcionalidades",
     "Conocimiento/01 - Blue Team/02 - Consolas y Plataformas/Trend Vision One/01 - Fundamentos internos",
-    "Conocimiento/02 -Hacking/Hacking Genérico/Enumeración/Nmap/Nmap.md",
     "Sin título.canvas",
     "Conocimiento/02 - Blue Team/08 - Certificaciones/Trend Vision One SecOps Advanced",
     "Conocimiento/01 - Blue Team/06 - Certificaciones/Palo Alto",
-    "Conocimiento/01 - Blue Team/06 - Certificaciones/Microsoft",
     "Untitled.canvas",
     "zzzimages/Nginx serverhosts.png",
     "zzzimages/Estructura_nginx.png",

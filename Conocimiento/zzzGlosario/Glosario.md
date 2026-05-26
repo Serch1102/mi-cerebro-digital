@@ -16,3 +16,5 @@
 
 ---
 
+- [[Cortex XSIAM#^5ed1fa|UEBA]]: UEBA (User and Entity Behavior Analytics) ==es una solución de ciberseguridad que utiliza inteligencia artificial y _machine learning_ para analizar el comportamiento normal de usuarios y dispositivos==, detectando anomalías que indican amenazas internas, cuentas comprometidas o ataques, según
+
